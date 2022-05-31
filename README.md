@@ -5,7 +5,7 @@ Made a ML model for predicting salary for the new employees of a company based o
 Model Accuracy- >97%
 
 Libraries used: 
-1. SnadardScalar
+1. SnadardScaler
 2. matplotlib
 3. confusion matrix
 4. K-nearest neighbor
